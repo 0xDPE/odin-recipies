@@ -1,0 +1,19 @@
+*{
+    font-family: "Arial", "Times New Roman";
+}
+
+.title{
+    font-weight: bold;
+    background-color: green;
+    color: orange;
+}
+
+ol li{
+    color: red;
+    background-color: orange;
+}
+
+ul li{
+    color:blue;
+    background-color: greenyellow;
+}
